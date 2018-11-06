@@ -51,7 +51,11 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">PHP-Proxy</h1>
+		<h1 style="color:blue;">Slapshot's Aswesome PHP Proxy</h1>
+	</div>
+	
+	<div style="text-align:center;">
+		<p style="color:blue;">Free Internet For All!</p>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
